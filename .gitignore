@@ -6,7 +6,7 @@ build
 **/build
 
 yarn-error.log
-
+.yarn/cache
 # Yarn plug n play
 .yarn/*
 !.yarn/cache
