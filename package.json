@@ -25,10 +25,10 @@
     "sort-package-json:root": "yarn-tool sort",
     "sort-package-json:ws": "yarn-tool ws exec yarn-tool sort"
   },
-  "resolutions": {},
   "devDependencies": {
     "@bluelovers/tsconfig": "^1.0.20",
-    "@types/node": "*"
+    "@types/node": "*",
+    "tf-next": "^0.5.0"
   },
   "peerDependencies": {
     "@bluelovers/conventional-changelog-bluelovers": "*",
